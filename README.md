@@ -1,2 +1,1 @@
-# Project for Mathmatical Calculation
-# 1. Calculator 
+Project for Mathmatical Calculation
